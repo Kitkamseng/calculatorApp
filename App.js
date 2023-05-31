@@ -140,8 +140,6 @@ const styles = StyleSheet.create({
     margin: 5,
     justifyContent: 'center',
     alignItems: 'center',
-    // borderWidth: 3,
-    // borderColor: 'blue',
   },
   buttonText: {
     fontSize: 25,
